@@ -3,6 +3,10 @@
 ## Description
 A simple contract management platform built using React that allows users to create reusable contract blueprints, generate contracts from those blueprints, and manage the contract lifecycle.
 
+Live Demo:
+
+https://resonant-tartufo-146ab0.netlify.app/
+
 ## Features
 - Create contract blueprints with configurable fields
 - Supported field types: Text, Date, Signature, Checkbox
