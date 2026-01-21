@@ -7,6 +7,8 @@ Live Demo:
 
 https://resonant-tartufo-146ab0.netlify.app/
 
+Deployed using Netlify.
+
 ## Features
 - Create contract blueprints with configurable fields
 - Supported field types: Text, Date, Signature, Checkbox
@@ -25,16 +27,23 @@ https://resonant-tartufo-146ab0.netlify.app/
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tahreenfazal/contract-management-platform.git
+   ```
    
 2. Navigate to the project folder:
+   ```bash
    cd contract-management-platform
+   ```
 
-3. Install dependensies:
+3. Install dependencies:
+  ```bash
    npm install
+   ```
 
-4. Start the application
+4. Start the application:
+   ```bash
    npm start
+   ```
 
 5. Open the browser at:
    http://localhost:3000
